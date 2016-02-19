@@ -30,13 +30,6 @@ html.fp-enabled,
     -moz-box-sizing: border-box; /* <=28 */
     box-sizing: border-box;
 }
-.fp-slide {
-    float: left;
-}
-.fp-slide, .fp-slidesContainer {
-    height: 100%;
-    display: block;
-}
 .fp-slides {
     z-index:1;
     height: 100%;
